@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World! -6.0 - Nexus</h2>
+<h2>Hello World! -7.0 - deploy to Nexus</h2>
 </body>
 </html>
